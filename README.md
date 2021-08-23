@@ -9,7 +9,7 @@ Welcome to the online repository for the **AI4Business** course. The AI4Business
 
 ## Download
 
-To download all the course material please click on Code > Download ZIP.
+To download all the course material please click on `Code > Download ZIP`.
 This will download the material for all modules in the structure listed below.
 
 
