@@ -17,7 +17,7 @@ Are you a business manager looking to deepen your AI knowledge and skills? Or ar
 
 Then this course is an ideal starting point for your journey. The material is organized in a modular format with five course modules in total. This allows you to either follow the full course or select the topics you find interesting. The course starts from the basics on AI and gradually evolves towards building real-life AI systems. Always keeping in mind that the most important element is to generate value with your solutions. We bridge the gap between business and technical people, allowing AI to thrive in your company.
 
-The world of AI is fast-paced and ever-changing, so any AI course is by definition never truly done. We therefore envision a continuous development process for this course, updating it over time. Your feedback is very important to us, so feel free to complete the short feedback survey below.
+The world of AI is fast-paced and ever-changing, so any AI course is by definition never truly done. We therefore envision a continuous development process for this course, updating it over time. Your feedback is very important to us, so feel free to complete our short [feedback survey](https://forms.gle/LgEuxzUJEt762sNT8).
 
 But for now, we wish you an interesting and educational experience. Happy learning!
 
@@ -74,7 +74,7 @@ Prophecy Labs is an AI startup performing both consulting and end-to-end data sc
 
 We developed this open source AI4Business course, such that everyone has access to learn from our experiences. Our aspirations are to bring true added value to companies and train the next generation of AI professionals. In no way, shape or form is this course meant to be a profitable concept. The course stays open source, freely to consult by everyone. We also aim to bring this knowledge directly to the people by giving trainings and sharing new content via social media outlets.
 
-The world of AI is fast-paced and ever changing, so any AI course is by definition never truly finished. We therefore aim to continuously update this course with new  and exciting AI developments that can help businesses to thrive. Your opinions are of course very valuable to us in order to keep improving and updating the course, so feel free to fill in the survey below. We also very much welcome content contributions and partnerships, see below for more details on this.
+The world of AI is fast-paced and ever changing, so any AI course is by definition never truly finished. We therefore aim to continuously update this course with new  and exciting AI developments that can help businesses to thrive. Your opinions are of course very valuable to us in order to keep improving and updating the course, so feel free to fill in our [feedback survey](https://forms.gle/LgEuxzUJEt762sNT8). We also very much welcome content contributions and partnerships, see below for more details on this.
 
 ---
 
