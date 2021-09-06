@@ -2,9 +2,9 @@
 Welcome to the online repository for the **AI4Business** course!
 The AI4Business course consists out of five modules:
 1. Introduction to AI
-2. Developing AI tools
-3. Capturing value with AI
-4. Deploying AI solutions
+2. Developing AI Tools
+3. Capturing Value with AI
+4. Deploying AI Solutions
 5. MLOps & Monitoring
 
 An online webpage for the course is available at the following web address: [AI4Business by Prophecy Labs](https://sites.google.com/prophecylabs.com/ai4business).
@@ -13,13 +13,11 @@ An online webpage for the course is available at the following web address: [AI4
 
 ## Mission & Vision
 
-Are you a business manager looking to deepen your AI knowledge and skills? Or are you a data scientist interested in bringing business value with your AI solutions? Or do you want to find out what it takes to bring AI to the real word in a production environment?
+Are you a business manager looking to deepen your AI knowledge and skills? Are you a data scientist interested in bringing business value with your AI solutions? Do you want to find out what it takes to bring AI to the real word in a production environment? Then this course is an ideal starting point for your journey. 
 
-Then this course is an ideal starting point for your journey. The material is organized in a modular format with five course modules in total. This allows you to either follow the full course or select the topics you find interesting. The course starts from the basics on AI and gradually evolves towards building real-life AI systems. Always keeping in mind that the most important element is to generate value with your solutions. We bridge the gap between business and technical people, allowing AI to thrive in your company.
+The material is organized in a modular format with five course modules in total. This allows you to either follow the full course or select the topics you find interesting. The course starts from the basics on AI and gradually evolves towards building real-life AI systems. Always keeping in mind that the most important element is to generate value with your solutions. We bridge the gap between business and technical people, allowing AI to thrive in your company.
 
-The world of AI is fast-paced and ever-changing, so any AI course is by definition never truly done. We therefore envision a continuous development process for this course, updating it over time. Your feedback is very important to us, so feel free to complete our short [feedback survey](https://forms.gle/LgEuxzUJEt762sNT8).
-
-But for now, we wish you an interesting and educational experience. Happy learning!
+We wish you an interesting and educational experience. Happy learning!
 
 ---
 
@@ -32,10 +30,12 @@ This AI4Business course takes you on a journey into the exciting realm of Artifi
 4. **Deploying AI solutions**: Find out what it takes to bring AI to the real world and which challenges are blocking the way from PoC to an actual production environment. We show the importance of good data. After this module you will have a complete view of AI in real life.
 5. **MLOps & Monitoring**: Learn best practices for AI model deployment and maintenance with MLOps and CRISP - ML(Q). We also highlight the importance of good monitoring. After this module you will be able to keep capturing value with AI during its whole lifetime.
 
+An overview of the course is presented in the video *Course_Overview.mp4* (see the information below to download).
+
 
 ### Download
 
-To download all the course material please click on `Code > Download ZIP`.
+To download all the course material please click on `Code > Download ZIP` at the top of this repository.
 This will download the material for all modules in the structure listed below.
 
 
